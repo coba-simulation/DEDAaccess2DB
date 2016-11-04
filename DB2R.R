@@ -1,6 +1,5 @@
 # R code for Getting Access data into R using RODBC.
 
-# To a big share, the following code was copied from the Github link listed below:
 #################################################################
 ### Sources:
 ### R-bloggers.com:
